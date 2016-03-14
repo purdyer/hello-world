@@ -1,4 +1,4 @@
 # hello-world
 GitHub tutorial
 
-Eric Purdy. Completing tutorial,
+Eric Purdy. Completing tutorial.
